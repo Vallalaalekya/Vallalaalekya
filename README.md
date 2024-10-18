@@ -1,4 +1,4 @@
-# ALEKYA VALLALA
+# Alekya Vallala
 
 ## 👋 About Me
 • **🔭 Current Work:** I am currently working on automation testing projects focused on both web and mobile applications.  
