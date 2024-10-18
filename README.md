@@ -1,7 +1,7 @@
 
 ## 👋 About Me
 • **🔭 Current Work:** I am currently working on automation testing projects focused on both web and mobile applications.  
-• **🌱 Areas of Growth:** I am expanding my knowledge in: Advanced security testing, CI/CD integration and Performance optimization  
+• **🌱 Expanding Knowledge in:** Advanced security testing, CI/CD integration and Performance optimization  
 • **💬 Ask me about:**  Manual Testing, Selenium, Cypress, Appium, API Testing, Performance Testing, Security Testing  
 • **📫 Contact Me:** You can reach me at [vallalaalekya@gmail.com](mailto:vallalaalekya@gmail.com) or connect with me on [LinkedIn](#).
 # My Tech Stack
